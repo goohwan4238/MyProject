@@ -24,3 +24,5 @@ if msglist[0] not in techDic:
     techDic[msglist[0].strip()] = msglist[1]
 
 print(techDic)
+
+#주석을 추가함
