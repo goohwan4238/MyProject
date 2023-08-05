@@ -35,7 +35,7 @@ for line in reader:
     techDic[line[0].upper()] = line[1]
 f.close()
 
-
+#현재 Glossary 코드 제외중
 @app.message()
 def message_hello(message, say, client):
     if message['text'].find('?') >=0 : 
