@@ -26,3 +26,4 @@ if msglist[0] not in techDic:
 print(techDic)
 
 #주석을 추가함
+#주석을 추가함 2
