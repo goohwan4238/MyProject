@@ -1,6 +1,7 @@
 # 충돌
 # 초기 Glossary bot 코드
 # payload 버전 7777
+# 8/17일 수정
 
 
 SLACK_BOT_TOKEN='xoxb-5225787109154-5471874969926-RYr0fofJT7o8M2IRVRy8EoDA'
