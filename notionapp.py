@@ -4,6 +4,10 @@
 from notion_client import Client
 from datetime import datetime, timezone
 
+
+
+
+
 NOTION_TOKEN = 'secret_cjeUfDIlGbQEsQrXka3hdeb09xvocP01kVYc8C09DGf'
 DATABASE_ID = 'c3527cec13264369919a055a7c6f2ce7'
 
