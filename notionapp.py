@@ -1,3 +1,5 @@
+# 8/17 커밋
+
 from notion_client import Client
 from datetime import datetime, timezone
 
